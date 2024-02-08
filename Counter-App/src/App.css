@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka&family=Poppins&family=Roboto&display=swap');
+body{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  font-weight: bolder;
+}
+button{
+  margin-left: 10px;
+  padding: 8px 15px 8px 15px;
+  background-color: white;
+  border-radius: 2px;
+}
+button:hover{
+  background-color: black;
+  color: white;
+  cursor: pointer;
+}
+.counter{
+  font-size: 40px;
+}
